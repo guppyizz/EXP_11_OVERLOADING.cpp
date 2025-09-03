@@ -47,3 +47,16 @@ int main()
 
     return 0;
 }
+
+/*output 
+    
+average gpa in 1st sem : 
+8.4
+average gpa in 2nd sem : 
+7.45
+average gpa in 3rd sem  : 
+6.8
+average gpa in 4th sem  : 
+6.225 */
+
+
